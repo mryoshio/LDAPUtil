@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="/Users/mryoshio/IdeaProjects/LDAPUtil/lib/log4j-1.2.15.jar" />
+    <archive path="/Users/mryoshio/IdeaProjects/LDAPUtil/lib/junit-4.10.jar" />
+    <archive path="/Users/mryoshio/IdeaProjects/LDAPUtil/lib/log4j-1.2.15.jar" />
+    <archive path="/Users/mryoshio/IdeaProjects/LDAPUtil/lib/junit-4.10.jar" />
+  </library>
+</eclipse-userlibraries>
+
